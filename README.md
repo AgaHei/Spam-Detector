@@ -171,7 +171,6 @@ weighted avg       0.98      0.98      0.98      1115
 
 ## � Contact & Project Links
 
-**🎓 Project Author**: Aga Hei  
 **📚 Repository**: [github.com/AgaHei/Spam-Detector](https://github.com/AgaHei/Spam-Detector)  
 **🚀 Interactive Notebook**: [Open in Google Colab](https://colab.research.google.com/github/AgaHei/Spam-Detector/blob/master/Project_AT%26T_Final.ipynb)  
 **🏫 Institution**: Jedha Bootcamp - Machine Learning Engineer Track  
