@@ -82,26 +82,15 @@ Input SMS Message
 
 ## 🏆 Model Performance
 
-### Best Model: Ultra-Simple Neural Network
+### Best Model: Simple Neural Network
 
 | Metric | Score |
 |--------|-------|
-| **Accuracy** | 98.4% |
-| **AUC Score** | 0.992 |
-| **Parameters** | 25,153 |
-| **Architecture** | 392 → 64 → 1 |
+| **Accuracy** | 99.3% |
+| **AUC Score** | 0.999 |
+| **Parameters** | 50,433 |
+| **Architecture** | 392 → 128 → 1 |
 
-### Detailed Metrics
-```
-              precision    recall  f1-score   support
-
-         Ham       0.99      0.99      0.99       965
-        Spam       0.94      0.95      0.94       150
-
-    accuracy                           0.98      1115
-   macro avg       0.96      0.97      0.97      1115
-weighted avg       0.98      0.98      0.98      1115
-```
 
 ## 📓 Notebook Access
 
