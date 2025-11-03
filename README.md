@@ -4,6 +4,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)](https://pytorch.org)
 [![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-2.0%2B-green.svg)](https://www.sbert.net)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AgaHei/Spam-Detector/blob/master/Project_AT%26T_Final.ipynb)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black.svg)](https://github.com/AgaHei/Spam-Detector)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Advanced SMS spam detection system using modern transfer learning techniques with Sentence Transformers and lightweight neural networks.**
@@ -14,6 +16,7 @@
 - [Technical Architecture](#technical-architecture)
 - [Dataset](#dataset)
 - [Model Performance](#model-performance)
+- [Notebook Access](#notebook-access)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -114,6 +117,22 @@ Input SMS Message
 weighted avg       0.98      0.98      0.98      1115
 ```
 
+## 📓 Notebook Access
+
+### 🎯 Choose Your Preferred Way to Explore the Project:
+
+| Platform | Purpose | Link |
+|----------|---------|------|
+| **🐙 GitHub** | Code Review & Documentation | [View Notebook](https://github.com/AgaHei/Spam-Detector/blob/master/Project_AT%26T_Final.ipynb) |
+| **🚀 Google Colab** | Interactive Execution | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AgaHei/Spam-Detector/blob/master/Project_AT%26T_Final.ipynb) |
+
+### 💡 Recommendations:
+- **For Jury Review**: Use GitHub version for clean code viewing
+- **For Interactive Testing**: Use Colab version with GPU acceleration
+- **For Development**: Clone repository and run locally or in Colab
+
+> **Note**: If the notebook doesn't render on GitHub, use the Colab link which always works perfectly!
+
 
 
 ### Key Insights
@@ -150,7 +169,22 @@ weighted avg       0.98      0.98      0.98      1115
 
 
 
-## 📜 License
+## � Contact & Project Links
+
+**🎓 Project Author**: Aga Hei  
+**📚 Repository**: [github.com/AgaHei/Spam-Detector](https://github.com/AgaHei/Spam-Detector)  
+**🚀 Interactive Notebook**: [Open in Google Colab](https://colab.research.google.com/github/AgaHei/Spam-Detector/blob/master/Project_AT%26T_Final.ipynb)  
+**🏫 Institution**: Jedha Bootcamp - Machine Learning Engineer Track  
+
+### 📊 Project Stats
+- **🔬 Development**: 3 weeks
+- **🎯 Final Accuracy**: 98.4%
+- **⚡ Model Parameters**: 25,153
+- **🏆 Certification**: Jedha Bloc 4 (Deep Learning)
+
+---
+
+## �📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -161,5 +195,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **PyTorch Community** for the robust deep learning framework
 - **SMS Spam Collection Dataset** contributors for the quality dataset
 
+---
 
-**Built for the Jedha Machine Learning Engineer Certification**
+**Built with ❤️ for the Jedha Machine Learning Engineer Certification**
+
+> **For Jury Review**: This project showcases advanced ML engineering including transfer learning, neural networks, and production-ready deployment. Click the Colab badge above for interactive exploration!
