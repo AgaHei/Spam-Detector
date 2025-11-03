@@ -10,20 +10,6 @@
 
 > **Advanced SMS spam detection system using modern transfer learning techniques with Sentence Transformers and lightweight neural networks.**
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Technical Architecture](#technical-architecture)
-- [Dataset](#dataset)
-- [Model Performance](#model-performance)
-- [Notebook Access](#notebook-access)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Results & Visualizations](#results--visualizations)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Overview
 
@@ -176,9 +162,8 @@ weighted avg       0.98      0.98      0.98      1115
 **🏫 Institution**: Jedha Bootcamp - Machine Learning Engineer Track  
 
 ### 📊 Project Stats
-- **🔬 Development**: 3 weeks
+- **🔬 Development**: 1 week
 - **🎯 Final Accuracy**: 98.4%
-- **⚡ Model Parameters**: 25,153
 - **🏆 Certification**: Jedha Bloc 4 (Deep Learning)
 
 ---
@@ -196,6 +181,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ for the Jedha Machine Learning Engineer Certification**
+**Built for the Jedha Machine Learning Engineer Certification**
 
 > **For Jury Review**: This project showcases advanced ML engineering including transfer learning, neural networks, and production-ready deployment. Click the Colab badge above for interactive exploration!
